@@ -1,4 +1,5 @@
-# Imr 2023-2024
+#Imr2023-2024
+
 Tema 1:
   Am facut toate punctele din tema. 
   Cand distanta dintre cactusi este mai mica de 25 cm merge in attack, apoi get hit si dead urmand sa se intoarca la idle. In caz contrar trece intre idle si walk. 
